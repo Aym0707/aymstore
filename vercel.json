@@ -29,7 +29,7 @@
     }
   ],
   "env": {
-    "AIRTABLE_API_KEY": "@airtable_api_key",
+    "AIRTABLE_API_KEY": "",
     "AIRTABLE_BASE_ID": "appoYDvbHFsSyU3K7",
     "AIRTABLE_TABLE_NAME": "aym7"
   }
